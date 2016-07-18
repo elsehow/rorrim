@@ -1,6 +1,6 @@
 # rorrim-kcalb
 
-collecting data for [biosense](//biosense.berkeley.edu) black mirrior viewing party
+collecting data for [biosense](http://biosense.berkeley.edu) black mirrior viewing party
 
 see [details.md](details.md)
 
