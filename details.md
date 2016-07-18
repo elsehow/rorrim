@@ -1,3 +1,16 @@
 # design & implementation details
 
-this document should describe an 'auditable' account of my implementation - what choices I made, design and technical, and why I mae those choices
+this package takes a configuration for some input sources,
+
+## `src/sources`
+
+Holds some sources for use in the app:
+
+- timeserver
+
+- mindwave
+
+
+## `src/index.js`
+
+Takes some preferences, and returns a stream of items saved into the hyperlog.

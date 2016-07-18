@@ -1,6 +1,6 @@
-# empty-module
+# rorrim-kcalb
 
-short description
+collecting data for [biosense](//biosense.berkeley.edu) black mirrior viewing party
 
 see [details.md](details.md)
 
